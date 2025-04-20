@@ -2,9 +2,10 @@
 <div align="center">
   <img
     height="150"
-    src="https://media4.giphy.com/media/HxpDjdX0PvLEs/200.gif"
-    alt="Princess GIF" />
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+    alt="Woman Coding GIF" />
 </div>
+
 
 
 
