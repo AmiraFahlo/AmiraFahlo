@@ -2,13 +2,10 @@
 <div align="center">
   <img
     height="150"
-    src="https://tenor.com/view/jasmine-computer-what-gif-20682810.gif"
-    alt="Princess Jasmine Coding Laptop" />
-  <img
-    height="150"
-    src="https://tenor.com/view/cat-coding-gif-22257939.gif"
-    alt="Cat Coding GIF" />
+    src="https://media4.giphy.com/media/HxpDjdX0PvLEs/200.gif"
+    alt="Princess GIF" />
 </div>
+
 
 
 ###
