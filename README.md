@@ -48,14 +48,7 @@
 
 ###
 
-h3 align="left">👑👩🏻‍💻 About Me — The Coder Princess</h3>
-<p align="left"> - 🔭 **Architecting Solutions** <br> &nbsp;&nbsp;👑 `MID.NET Architect` | Crafting enterprise solutions with ASP.NET Core MVC & Blazor <br> &nbsp;&nbsp;🧵 `Freelance Professional` | Weaving Clean Architecture & DDD into scalable systems <br> &nbsp;&nbsp;💼 `Project Lead` | Orchestrating full lifecycle development for <a href="https://karman-trading.com" target="_blank">karman-trading.com</a><br><br>
-
-    📚 Pursuing Excellence <br>   🎓 MEng Candidate in Software Engineering (2021–2026) <br>   🧪 Exploring advanced testing strategies with xUnit & Moq <br>   📜 Preparing for Microsoft Azure Certification (AZ-204)<br><br>
-
-    ⚡ Beyond Code <br>   🤝 Volunteering technical expertise for community development in Aleppo <br>   🌟 Mentoring junior developers in Clean Code practices <br>   🕌 Contributing to open-source Islamic tech projects <br>   🌱 Researching AI applications in legacy system modernization
-
-
+<p align="left">- 🔭 **Architecting Solutions**  <br>  MID.NET Architect | Crafting enterprise solutions with ASP.NET Core MVC & Blazor  <br>  Freelance Professional | Implementing Clean Architecture & DDD patterns  <br>  Project Lead | Managing full lifecycle development for karman-trading.com<br><br>- 📚 **Pursuing Excellence**  <br>  🎓 MEng Candidate in Software Engineering (2021-2026)  <br>  🧪 Exploring Advanced Testing Strategies with xUnit & Moq  <br>  📜 Preparing for Microsoft Azure Certification (AZ-204)<br><br>- ⚡ **Beyond Code**  <br>  🤝 Volunteering technical expertise for community development in Aleppo  <br>  📖 Mentoring junior developers in Clean Code practices  <br>  🕌 Contributing to open-source Islamic tech projects  <br>  🌱 Researching AI applications in legacy system modernization</p>
 
 ###
 
