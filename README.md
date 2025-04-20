@@ -37,7 +37,8 @@
 
 ###
 
-<h1 align="center">👸🏻💻 Amira Fahlo | .NET Developer</h1>
+
+<h1 align="center">👑🧕🏻💻 Amira Fahlo | .NET Developer</h1>
 
 ###
 
