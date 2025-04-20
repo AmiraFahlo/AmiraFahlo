@@ -1,6 +1,9 @@
 # Amira-Smaple
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUzNzUwenpvMTA2NzdrN3loZWxweXFuZzRhOTI2M3JrbTN2aTEzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+  <img
+    height="150"
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+    alt="Woman Coding GIF" />
 </div>
 
 ###
