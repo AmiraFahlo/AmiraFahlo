@@ -48,15 +48,16 @@
 
 ###
 
-<h3 align="left">👑👩‍💻 About Me — The Coder Princess</h3>
+h3 align="left">👑👩🏻‍💻 About Me — The Coder Princess</h3>
+<p align="left"> - 🔭 **Architecting Solutions** <br> &nbsp;&nbsp;👑 `MID.NET Architect` | Crafting enterprise solutions with ASP.NET Core MVC & Blazor <br> &nbsp;&nbsp;🧵 `Freelance Professional` | Weaving Clean Architecture & DDD into scalable systems <br> &nbsp;&nbsp;💼 `Project Lead` | Orchestrating full lifecycle development for <a href="https://karman-trading.com" target="_blank">karman-trading.com</a><br><br>
 
-<p align="left"> - 🔭 **Crafting Digital Kingdoms**<br> &nbsp;&nbsp;👑 `Software Architect` | Designing elegant solutions with ASP.NET Core MVC & Blazor<br> &nbsp;&nbsp;🌐 `Freelance Developer` | Weaving Clean Architecture & DDD into robust applications<br> &nbsp;&nbsp;🌟 `Project Leader` | Guiding full-stack journeys like <a href="https://karman-trading.com" target="_blank">karman-trading.com</a><br><br>
+    📚 Pursuing Excellence <br>   🎓 MEng Candidate in Software Engineering (2021–2026) <br>   🧪 Exploring advanced testing strategies with xUnit & Moq <br>   📜 Preparing for Microsoft Azure Certification (AZ-204)<br><br>
 
-    📚 Royal Quest for Knowledge<br>   🎓 MEng in Software Engineering (2021–2026) | Forever a learner<br>   🧪 Refining magical testing potions using xUnit & Moq<br>   📜 Preparing for the Azure Scroll of Power (AZ-204 Certification)<br><br>
+    ⚡ Beyond Code <br>   🤝 Volunteering technical expertise for community development in Aleppo <br>   🌟 Mentoring junior developers in Clean Code practices <br>   🕌 Contributing to open-source Islamic tech projects <br>   🌱 Researching AI applications in legacy system modernization
 
-    ⚡ Beyond the Code Tower<br>   🤝 Empowering communities in Aleppo through tech wizardry<br>   👩‍🏫 Guiding junior devs with kindness & clean code<br>   🕌 Proud contributor to open-source Islamic tech projects<br>   🌱 Exploring how AI breathes life into legacy systems
 
-</p>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
