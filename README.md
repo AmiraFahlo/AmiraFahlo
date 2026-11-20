@@ -1,13 +1,27 @@
 <!-- ========================================== -->
-<!-- 🎬 CINEMATIC SYSTEM HEADER -->
+<!-- 🎬 CINEMATIC HOLOGRAPHIC HEADER -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A1B27,100:6A4C93&height=200&section=header&text=Amira%20Fahlo&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=E6E6FA&desc=Systems%20Architect%20%7C%20.NET%20Specialist&descAlignY=55&descSize=20" width="100%" />
-</div>
+  <!-- Background Banner (Deep Space Tech with Purple Glow) -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0C10,50:6A4C93,100:1A1B27&height=250&section=header&text=%20&animation=twinkling" width="100%" />
+  
+  <!-- Overlay Text: Glowing Cinematic Typing -->
+  <div style="margin-top: -150px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=45&pause=2000&color=E6E6FA&center=true&vCenter=true&width=600&height=70&lines=Amira+Fahlo;Software+Architect" alt="Cinematic Name" />
+    </a>
+  </div>
 
-<div align="center">
+  <!-- HUD Status Bar (Heads Up Display) -->
+  <div style="margin-top: 10px;">
+    <code>[ SYSTEM ONLINE ]</code> &nbsp; <code>[ ROLE: .NET ARCHITECT ]</code> &nbsp; <code>[ LOC: SYRIA ]</code>
+  </div>
+  
+  <br/>
+
+  <!-- Typing Animation for Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&pause=1000&color=D8BFD8&center=true&vCenter=true&width=800&lines=Architecting+Elegant+Scalable+Systems;Orchestrating+Clean+Architecture+%26+DDD;Engineering+with+Scientific+Precision;Designing+the+Symphony+of+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=800&lines=Architecting+Elegant+Scalable+Systems;Orchestrating+Clean+Architecture+%26+DDD;Engineering+with+Scientific+Precision;Designing+the+Symphony+of+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -91,7 +105,7 @@ I am a **Software Engineer & .NET Architect** approaching enterprise solutions w
 
 <br/>
 
-<!-- The Ultimate Dashboard Card (Cinematic & Highly Technical) -->
+<!-- The Ultimate Dashboard Card -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmiraFahlo&theme=midnight_purple" width="100%" alt="Profile Details Dashboard" />
 </div>
@@ -116,6 +130,16 @@ I am a **Software Engineer & .NET Architect** approaching enterprise solutions w
 <div align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraFahlo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1A1B27&title_color=D8BFD8&text_color=c9d1d9" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+---
+
+## 🏆 Scientific & Engineering Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmiraFahlo&theme=discord&no-frame=true&no-bg=true&margin-w=15&title_color=D8BFD8" alt="Trophies" />
 </div>
 
 <br/>
