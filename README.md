@@ -1,76 +1,123 @@
 <!-- ========================================== -->
-<!-- 🌸 CINEMATIC & ELEGANT HEADER -->
+<!-- 🎬 CINEMATIC SYSTEM HEADER -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:6A4C93&height=200&section=header&text=Amira%20Fahlo&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=E6E6FA&desc=Software%20Architect%20%7C%20.NET%20Specialist&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A1B27,100:6A4C93&height=200&section=header&text=Amira%20Fahlo&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=E6E6FA&desc=Systems%20Architect%20%7C%20.NET%20Specialist&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&pause=1000&color=D8BFD8&center=true&vCenter=true&width=700&lines=Architecting+Elegant+Systems;Crafting+Clean+Architecture+%26+DDD;Engineering+with+Precision+%26+Grace" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&pause=1000&color=D8BFD8&center=true&vCenter=true&width=800&lines=Architecting+Elegant+Scalable+Systems;Orchestrating+Clean+Architecture+%26+DDD;Engineering+with+Scientific+Precision;Designing+the+Symphony+of+Code" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
+<!-- ========================================== -->
+<!-- 💻 SYSTEM BOOT SEQUENCE (CINEMATIC TERMINAL) -->
+<!-- ========================================== -->
 <div align="center">
-  <i>"Software architecture is the silent poetry of a well-built system. I write it with precision."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=%24+dotnet+run+--project+AmiraFahlo.Profile;%3E+Initializing+Clean+Architecture...;%3E+Loading+Domain+Layer...;%3E+Injecting+Dependencies...;%3E+System+Ready.+Welcome+to+my+digital+space." alt="Boot Sequence" />
 </div>
 
 <br/>
 
-<!-- ========================================== -->
-<!-- ✨ ABOUT THE ARCHITECT -->
-<!-- ========================================== -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About The Architect
+<div align="center">
+  <i>"Software architecture is the silent poetry of a well-built system. I write it with precision, vision, and grace."</i>
+</div>
 
-I am a **Software Engineer & .NET Architect** approaching enterprise solutions with the meticulous mindset of a scientist and the vision of an architect. I don't just write code; I orchestrate scalable, resilient, and elegant systems.
+<br/>
 
-- 🏛️ **Core Expertise:** Clean Architecture, Domain-Driven Design (DDD), Microservices, and API Optimization.
-- ⚙️ **Tech Ecosystem:** ASP.NET Core, Blazor, C#, Azure, and modern Frontend tools.
-- 🎓 **Academic Excellence:** MEng Candidate in Software Engineering (2021-2026).
-- 🚀 **Pursuing Mastery:** Exploring Advanced Testing Strategies (xUnit & Moq) and preparing for Microsoft Azure Certification (AZ-204).
-- 🌍 **Beyond Code:** Mentoring junior developers, contributing to open-source Islamic tech projects, and researching AI applications in legacy system modernization.
+---
+
+## 👩‍💻 About The Architect
+
+I am a **Software Engineer & .NET Architect** approaching enterprise solutions with the meticulous mindset of a scientist and the visionary eye of an architect. I don't just write code; I orchestrate resilient, elegant, and highly scalable systems.
+
+- 🏛️ **Core Philosophy:** Clean Architecture, Domain-Driven Design (DDD), and Microservices.
+- 🎓 **Academic:** MEng Candidate in Software Engineering (2021-2026).
+- 🚀 **Pursuing Mastery:** Advanced Testing Strategies (xUnit & Moq) | AZ-204 Azure Certification.
+- 🌍 **Beyond Code:** Mentoring developers, contributing to open-source Islamic tech projects, and researching AI in legacy modernization.
 - 📍 Based in Aleppo, Syria.
 
-<br/>
+---
 
-<!-- ========================================== -->
-<!-- ⚡ THE ARSENAL (TECH STACK) -->
-<!-- ========================================== -->
-## <img src="https://media.giphy.com/media/iY8OD8OyiX6cY/giphy.gif" width="30"> The Arsenal
+## ⚡ System Architecture & Tech Stack
 
 <div align="center">
-  <!-- Using Skill Icons for a premium, cohesive look -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,azure,docker,git,github,visualstudio,vscode,js,html,css,bootstrap&perline=7" alt="Tech Stack" />
+  <!-- Presentation Layer -->
+  <h4>🎨 Presentation Layer</h4>
+  <img src="https://skillicons.dev/icons?i=blazor,html,css,js,bootstrap" alt="Presentation Layer" />
+  
+  <br/><br/>
+
+  <!-- Application & Domain Layer -->
+  <h4>⚙️ Application & Domain Layer</h4>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Application Layer" />
+  
+  <br/><br/>
+
+  <!-- Infrastructure & DevOps Layer -->
+  <h4>☁️ Infrastructure & DevOps Layer</h4>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github" alt="Infrastructure Layer" />
+  
+  <br/><br/>
+
+  <!-- Tooling Layer -->
+  <h4>🛠️ Tooling & Environment</h4>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode" alt="Tooling" />
 </div>
 
 <br/>
 
-<!-- ========================================== -->
-<!-- 📊 CINEMATIC METRICS & STATS -->
-<!-- ========================================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Engineering Metrics
+---
+
+## 📊 System Metrics & Analytics
 
 <div align="center">
-  <!-- Stats Cards with Soft Lavender/Pink Theme -->
+  <!-- Status Badges -->
+  <img src="https://img.shields.io/badge/Architecture-Clean-6A4C93?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Tests-Passing-6A4C93?style=flat-square&logo=xunit" />
+  <img src="https://img.shields.io/badge/DDD-Implemented-6A4C93?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Stats Dashboard -->
   <img src="https://github-readme-stats.vercel.app/api?username=AmiraFahlo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1A1B27&title_color=D8BFD8&icon_color=FFB6C1&text_color=c9d1d9" alt="Amira's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraFahlo&theme=midnight-purple&hide_border=true&background=1A1B27&ring=FFB6C1&fire=FFB6C1&currStreakNum=E6E6FA&sideNums=E6E6FA" alt="Amira's Streak" width="48%" />
 </div>
 
 <br/>
 
-<!-- Elegant Activity Graph -->
 <div align="center">
+  <!-- Activity Graph (The Heartbeat of the System) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiraFahlo&theme=modern-lilac&bg_color=1A1B27&color=E6E6FA&line=D8BFD8&point=FFB6C1&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
-<!-- ========================================== -->
-<!-- 🌐 CONNECT WITH ME -->
-<!-- ========================================== -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J2ZzB2bm4xZ3R0Z3R2Z3R0Z3R0Z3R0Z3R0Z3R0Z3R0JmVuY3J5cHRlZF9pZD1nemR1YjR3ZzV4cDkmZXA9dmlkZW9zJmN0PWc&ct=g" width="30"> Connect
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraFahlo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1A1B27&title_color=D8BFD8&text_color=c9d1d9" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+---
+
+## 🏆 Scientific & Engineering Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmiraFahlo&theme=discord&no-frame=true&no-bg=true&margin-w=15&title_color=D8BFD8" alt="Trophies" />
+</div>
+
+<br/>
+
+---
+
+## 🌐 Establish Connection
 
 <div align="center">
   <a href="https://linkedin.com/in/amirafahlo">
@@ -90,7 +137,7 @@ I am a **Software Engineer & .NET Architect** approaching enterprise solutions w
 <!-- 📈 VISITOR COUNTER & FOOTER -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmiraFahlo&label=Profile%20Views&color=D8BFD8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AmiraFahlo&label=System%20Visits&color=D8BFD8&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
