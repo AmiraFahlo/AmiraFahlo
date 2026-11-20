@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Animated Cinematic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=210&section=header&text=Amira%20Fahlo&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Architect%20%26%20Systems%20Designer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/kylelobo/The-Documentation-Compendium/master/assets/blue-divider.gif" width="100%" />
+
+<h1 align="center">Amira Fahlo</h1>
+<p align="center">Software Engineer | .NET Backend Architect & Systems Designer</p>
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://github.com/AmiraFahlo">
@@ -21,7 +24,6 @@
   <a href="https://instagram.com/amira_fahlo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AmiraFahlo&label=Profile%20Views&color=1e1b4b&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
