@@ -1,106 +1,130 @@
-# Amira-Smaple
+<!-- ========================================== -->
+<!-- ✨ HIGH-END EDITORIAL HEADER -->
+<!-- ========================================== -->
 <div align="center">
-  <img
-    height="150"
-    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    alt="Woman Coding GIF" />
+  <!-- Soft Pastel Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FAFAFA,50:E6E6FA,100:F4C2C2&height=200&section=header&text=Amira%20Fahlo&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=1A1B27&desc=Software%20Architect%20%7C%20.NET%20Specialist&descAlignY=60&descSize=18" width="100%" />
 </div>
-
-
-
-
-###
 
 <div align="center">
-  <a href="www.linkedin.com/in/AmiraFahlo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/AmiraFahlo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://x.com/AmiraFahlo1009" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/taj.alamira.54/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://gitlab.com/fahloamira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
-  </a>
-  <a href="mail:fahloamira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="ttps://www.instagram.com/amira_fahlo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&pause=1000&color=B76E79&center=true&vCenter=true&width=800&lines=Architecting+Elegant+Scalable+Systems;Orchestrating+Clean+Architecture+%26+DDD;Engineering+with+Scientific+Precision;Designing+the+Symphony+of+Code" alt="Typing SVG" />
   </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AmiraFahlo.AmiraFahlo&"  />
+  <i style="color: #555555; font-size: 16px;">"Software architecture is the silent poetry of a well-built system. I write it with precision, vision, and grace."</i>
 </div>
 
-###
+<br/>
 
+---
 
-<h1 align="center">👑🧕🏻💻 Amira Fahlo | .NET Developer</h1>
+## 🏛️ About The Architect
 
-###
+I am a **Software Engineer & .NET Architect** approaching enterprise solutions with the meticulous mindset of a scientist and the visionary eye of an architect. I don't just write code; I orchestrate resilient, elegant, and highly scalable systems.
 
-<p align="left">- 🔭 **Architecting Solutions**  <br>  MID.NET Architect | Crafting enterprise solutions with ASP.NET Core MVC & Blazor  <br>  Freelance Professional | Implementing Clean Architecture & DDD patterns  <br>  Project Lead | Managing full lifecycle development for karman-trading.com<br><br>- 📚 **Pursuing Excellence**  <br>  🎓 MEng Candidate in Software Engineering (2021-2026)  <br>  🧪 Exploring Advanced Testing Strategies with xUnit & Moq  <br>  📜 Preparing for Microsoft Azure Certification (AZ-204)<br><br>- ⚡ **Beyond Code**  <br>  🤝 Volunteering technical expertise for community development in Aleppo  <br>  📖 Mentoring junior developers in Clean Code practices  <br>  🕌 Contributing to open-source Islamic tech projects  <br>  🌱 Researching AI applications in legacy system modernization</p>
+<br/>
 
-###
+## 🔬 Current Research & Focus
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+> *"Simplicity is the prerequisite for reliability." — Edsger W. Dijkstra*
 
-###
+- 🏗️ **Architecting:** Domain-Driven Design (DDD) in distributed Microservices.
+- 🌿 **Exploring:** Event-Driven Architecture with Azure Service Bus.
+- 💬 **Discussing:** C#, Blazor, Clean Architecture, and API Optimization.
+- 🎓 **Academic:** MEng Candidate in Software Engineering (2021-2026).
+- 📍 **Base:** Aleppo, Syria.
 
-<h3 align="left">🔥   My Stats :</h3>
+<br/>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## ⚙️ The Engineering Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmiraFahlo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmiraFahlo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AmiraFahlo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AmiraFahlo&column=4&row=1&margin-w=2&no-frame=false&no-bg=false" height="150" alt="trophy graph"  />
+  
+  <!-- Elegant Badges for Tech Stack -->
+  <p><b>Languages & Frameworks</b></p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  
+  <br/><br/>
+
+  <p><b>Infrastructure & Tools</b></p>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
-###
+<br/>
+
+---
+
+## 📊 System Analytics (Light Mode)
+
+<div align="center">
+  <!-- Status Badges -->
+  <img src="https://img.shields.io/badge/Architecture-Clean-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tests-Passing-E6E6FA?style=flat-square&labelColor=555555&color=E6E6FA" />
+  <img src="https://img.shields.io/badge/DDD-Implemented-F4C2C2?style=flat-square&labelColor=555555&color=F4C2C2" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Stats Dashboard with Light Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AmiraFahlo&show_icons=true&theme=transparent&hide_border=true&bg_color=FFFFFF&title_color=B76E79&icon_color=B76E79&text_color=333333" alt="Amira's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraFahlo&theme=transparent&hide_border=true&background=FFFFFF&ring=B76E79&fire=B76E79&currStreakNum=333333&sideNums=333333" alt="Amira's Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Activity Graph (Soft Light Theme) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiraFahlo&bg_color=FFFFFF&color=B76E79&line=E6E6FA&point=B76E79&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraFahlo&layout=compact&theme=transparent&hide_border=true&bg_color=FFFFFF&title_color=B76E79&text_color=333333" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+---
+
+## 🌸 Establish Connection
+
+<div align="center">
+  <a href="https://linkedin.com/in/amirafahlo">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AmiraFahlo">
+    <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:fahloamira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-B76E79?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- 📈 VISITOR COUNTER & FOOTER -->
+<!-- ========================================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmiraFahlo&label=Profile%20Views&color=B76E79&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,50:E6E6FA,100:FAFAFA&height=100&section=footer" width="100%" />
+</div>
